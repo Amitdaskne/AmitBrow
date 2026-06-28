@@ -98,7 +98,7 @@
                 android:layout_width="0dp"
                 android:layout_height="@dimen/nav_button_size"
                 android:layout_weight="1"
-                android:src="@android:drawable/ic_menu_home"
+                android:src="@android:drawable/ic_menu_agenda"
                 android:padding="8dp"
                 android:onClick="goHome" />
             <ImageView
