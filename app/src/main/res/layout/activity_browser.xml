@@ -105,7 +105,7 @@
                 android:layout_width="0dp"
                 android:layout_height="@dimen/nav_button_size"
                 android:layout_weight="1"
-                android:src="@android:drawable/ic_menu_recent_history"
+                android:src="@android:drawable/ic_menu_search"
                 android:padding="8dp"
                 android:onClick="showBookmarks" />
             <ImageView
