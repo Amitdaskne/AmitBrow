@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="glass_corner_radius">24dp</dimen>
+    <dimen name="glass_blur_radius">20dp</dimen>
+    <dimen name="glass_elevation">8dp</dimen>
+    <dimen name="glass_padding">16dp</dimen>
+    <dimen name="glass_margin">12dp</dimen>
+    <dimen name="search_bar_height">56dp</dimen>
+    <dimen name="nav_button_size">48dp</dimen>
+    <dimen name="url_text_size">16sp</dimen>
+    <dimen name="tab_indicator_size">4dp</dimen>
+</resources>
